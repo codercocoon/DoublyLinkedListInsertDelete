@@ -1,11 +1,11 @@
-package com.codercocoon.DoublyLinkedList;
+package javaspringexamples.DoublyLinkedList;
 
 /**
  * This class represents some operations about doubly linked lists, especially
  * how you can Insert at first, at last, at Nth position, and delete from Nth
  * position.
  * 
- * @author contact@codercocoon.com.
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class InsertDeleteANode {
